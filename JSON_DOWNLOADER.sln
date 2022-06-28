@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON_DOWNLOADER", "JSON_DOWNLOADER\JSON_DOWNLOADER.csproj", "{B6E1E74F-0B34-4723-A401-DD195B9B6264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON_DOWNLOADERTests1", "JSON_DOWNLOADERTests1\JSON_DOWNLOADERTests1.csproj", "{13152F2D-FC50-4276-83D3-A2E7937EB84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E1E74F-0B34-4723-A401-DD195B9B6264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E1E74F-0B34-4723-A401-DD195B9B6264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E1E74F-0B34-4723-A401-DD195B9B6264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E1E74F-0B34-4723-A401-DD195B9B6264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13152F2D-FC50-4276-83D3-A2E7937EB84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13152F2D-FC50-4276-83D3-A2E7937EB84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13152F2D-FC50-4276-83D3-A2E7937EB84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13152F2D-FC50-4276-83D3-A2E7937EB84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00AF456B-C351-42EB-837A-A8DFEFCEEB8B}
+	EndGlobalSection
+EndGlobal
